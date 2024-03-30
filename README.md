@@ -1,0 +1,1 @@
+# ARM-m4-LinkerScript-StartupCode
